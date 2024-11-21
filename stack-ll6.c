@@ -124,7 +124,7 @@ int main() {
                 exit(0);
 
             default:
-                printf("Invalid choice. Please try again.\n");
+                printf("Invalid choice. Please tr:y again.\n");
         }
     }
 
