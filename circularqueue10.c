@@ -79,7 +79,7 @@ int main() {
                 printf("Enter the value to enqueue: ");
                 scanf("%d", &value);
                 enqueue(&q, value);
- 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               break;
+              break;
             case 2:
                 dequeue(&q);
                 break;
